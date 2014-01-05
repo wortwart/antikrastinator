@@ -1,6 +1,8 @@
-antikrastinator
+Antikrastinator
 ===============
 
-Keeps you from aimlessly surfing around and wasting your time. Currently only as a Chrome extension.
+A Chrome extension to keep you from surfing around too long and gets you back to work.
 
-This project will be introduced in a story in German c't magazin (ct.de) in late May. The code will be uploaded when the magazine is published.
+This project was started by Herbert Braun and featured in c't Magazin 12/2013 in May 2013. More information about the project: http://www.heise.de/artikel-archiv/ct/2013/12/136 (in German).
+
+Antikrastinator is available in the Chrome Web Store (https://chrome.google.com/webstore/detail/antikrastinator/incnmfaglleffddlmicikkooapaajhpm).
